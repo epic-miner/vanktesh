@@ -16,7 +16,7 @@ git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
 cd stable-diffusion-webui
 
 # Install requirements
-pip install -r requirements.txt --quiet
+pip install -r requirements.txt
 
 # Clone the ControlNet and Reactor extensions
 cd extensions/
